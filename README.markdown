@@ -1,5 +1,8 @@
 # API REST em Go
-
+--
+## CRÉDITOS
+https://www.youtube.com/watch?v=3p4mpId_ZU8&t=328s
+--
 Uma API RESTful simples e escalável construída com Go, projetada para demonstrar as melhores práticas no desenvolvimento de microsserviços com arquitetura limpa e ferramentas modernas.
 
 ## Índice
@@ -115,13 +118,3 @@ Execute os testes unitários:
 go test ./tests/... -v
 ```
 Os testes cobrem handlers, repositórios e utilitários (presumido).
-
-## Contribuição
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`).
-3. Commit suas alterações (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie para o repositório remoto (`git push origin feature/nova-funcionalidade`).
-5. Abra um Pull Request.
-
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE) (presumida, ajuste conforme o repositório).
